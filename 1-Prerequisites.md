@@ -8,6 +8,6 @@
 
 <ul>
   <li>Microsoft VC++ Redistributable: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170 </li>
-  <li>Windows® .NET Framework: </li>
+  <li>Windows® .NET Framework: Manage > Add Roles and Features > (Features tab) check .NET Framework</li>
   <li>Windows® Installer 4.0 (or greater): check windows install version: ```msiexec /?```</li>
 </ul>
